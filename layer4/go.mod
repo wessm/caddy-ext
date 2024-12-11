@@ -1,6 +1,6 @@
 module github.com/wessm/caddy-ext/layer4
 
-go 1.14
+go 1.18
 
 require (
 	github.com/caddyserver/caddy/v2 v2.8.4
